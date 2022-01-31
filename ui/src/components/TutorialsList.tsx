@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
-import TutorialDataService from "../services/TutorialService";
-import { Link } from "react-router-dom";
+import React, { useState, useEffect } from 'react';
+import TutorialDataService from '../services/TutorialService';
+import { Link } from 'react-router-dom';
 
 const TutorialsList = () => {
   const [tutorials, setTutorials] = useState([]);

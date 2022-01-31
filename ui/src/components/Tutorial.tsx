@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import TutorialDataService from "../services/TutorialService";
+import React, { useState, useEffect } from 'react';
+import TutorialDataService from '../services/TutorialService';
 
 // 최상위 함수는 이렇게 작성해줄 것
 // 함수형 component라는 것을 명시하기 위해 아래와 같이 작성함
